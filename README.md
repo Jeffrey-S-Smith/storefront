@@ -9,7 +9,7 @@ This site is a virtual store that can show users what products are for sale. The
 
 # Deployment
 
- [Deployed:](https://profound-stroopwafel-d7eaa6.netlify.app)
+ [Deployed:]('https://profound-stroopwafel-d7eaa6.netlify.app')
 
 # Getting Started with Create React App
 
