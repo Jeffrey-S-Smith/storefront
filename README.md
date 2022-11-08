@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+## Overview
+This site is a virtual store that can show users what products are for sale. The items can be sorted by category and added to a cart. By clicking the cart icon, they can see how many items are in the cart. It can also keeps track of inventory by incrementing and decrementing inventory counts when a user adds and removes items from their cart.
+
+## UML 
+
+![UML](img/lab36.jpg)
+
+# Deployment
+
+ [Deployed:](https://profound-stroopwafel-d7eaa6.netlify.app)
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
