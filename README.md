@@ -7,6 +7,12 @@ This site is a virtual store that can show users what products are for sale. The
 
 ![UML](img/lab36.jpg)
 
+## My test suite uses [RTL](https://testing-library.com/docs/react-testing-library/intro/) to cover the following cases:
+
+1. Display a list of all `categories` from the Redux Store
+2. Display a list of all `products` within a selected category
+3. Displays components using Material UI
+
 # Deployment
 
  [https://profound-stroopwafel-d7eaa6.netlify.app](https://profound-stroopwafel-d7eaa6.netlify.app)
