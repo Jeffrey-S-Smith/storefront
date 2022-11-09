@@ -3,13 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import { Provider } from 'react-redux';
-import createStore from './store';
+import createStore from './store/index.js';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Provider store={createStore()}>
-    <App />
+        <App />
     </Provider>
   </React.StrictMode>
 );
