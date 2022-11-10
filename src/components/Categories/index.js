@@ -35,10 +35,10 @@ const Categories = (props) => {
 }
 
 
-const mapStateToProps = ({ quantity }) => {
+const mapStateToProps = ({ votes }) => {
   return {
-    totalQuantity: quantity.totalQuantity,
-    electronics: quantity.electronics,
+    totalQuantity: votes.totalQuantity,
+    electronics: votes.electronics,
   }
 
 }

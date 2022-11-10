@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+## Phase 3 Requirements
+
+## Features
+
+- Displays a list of products based on a category selected by the user.
+- Uses React-Redux to manage state for the product list, category list, and active category.
+
+![UML](img/lab38.jpg)
 ## Phase 2 Requirements
 
 In phase 2, we will be adding the “Add to Cart” feature to our application, which will allow our users to not only browse items in the store, but also select them and have them persist in their “shopping cart” for later purchase.
